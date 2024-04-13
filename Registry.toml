@@ -1,0 +1,6 @@
+name = "MyRegistry"
+uuid = "c0cdd978-a081-4530-acb7-b61dfcd10aa2"
+repo = "https://github.com/michaelbennett99/MyRegistry.jl"
+description = "My registry"
+
+[packages]
