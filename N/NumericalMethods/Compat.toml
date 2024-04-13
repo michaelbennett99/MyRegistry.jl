@@ -1,0 +1,6 @@
+[0]
+ForwardDiff = "0.10"
+StaticArrays = "1"
+TestItemRunner = "0.2"
+TestItems = "0.1"
+julia = "1"
